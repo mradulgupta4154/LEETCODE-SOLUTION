@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3421-find-students-who-improved](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3421-find-students-who-improved) |
 | [3451-find-invalid-ip-addresses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3451-find-invalid-ip-addresses) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
