@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
