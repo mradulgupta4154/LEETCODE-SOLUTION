@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0202-happy-number) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
