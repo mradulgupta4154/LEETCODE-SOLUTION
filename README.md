@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 ## Database
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
 ## Stack
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
