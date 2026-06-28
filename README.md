@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 ## Hash Table
 |  |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
