@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 ## Database
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1492-the-kth-factor-of-n) |
 ## Recursion
 |  |
