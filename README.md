@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1492-the-kth-factor-of-n) |
 ## Recursion
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
