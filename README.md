@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2733-neither-minimum-nor-maximum) |
 ## Math
 |  |
 | ------- |
