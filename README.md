@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
