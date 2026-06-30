@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
+| [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -232,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
