@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
+| [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1492-the-kth-factor-of-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 | [3280-convert-date-to-binary](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3280-convert-date-to-binary) |
+| [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
