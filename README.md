@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
+| [1486-xor-operation-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
+| [1486-xor-operation-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
