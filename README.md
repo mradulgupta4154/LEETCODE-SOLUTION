@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2733-neither-minimum-nor-maximum) |
 ## Math
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2469-convert-the-temperature) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
