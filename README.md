@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3280-convert-date-to-binary) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
