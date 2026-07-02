@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Database
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3280-convert-date-to-binary) |
 ## Stack
