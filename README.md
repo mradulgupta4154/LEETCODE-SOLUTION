@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3110-score-of-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
+| [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
