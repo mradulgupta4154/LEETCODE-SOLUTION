@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
+| [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1288-remove-covered-intervals) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
+| [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
+| [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1486-xor-operation-in-an-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0503-next-greater-element-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
