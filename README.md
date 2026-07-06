@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0177-nth-highest-salary) |
 | [3421-find-students-who-improved](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3421-find-students-who-improved) |
 | [3451-find-invalid-ip-addresses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3451-find-invalid-ip-addresses) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 ## String
 |  |
