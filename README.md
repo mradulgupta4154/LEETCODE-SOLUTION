@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0149-max-points-on-a-line) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0503-next-greater-element-ii) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
@@ -371,5 +373,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
