@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2894-divisible-and-non-divisible-sums-difference) |
