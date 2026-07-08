@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2942-find-words-containing-character](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
