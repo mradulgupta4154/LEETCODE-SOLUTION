@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2574-left-and-right-sum-differences) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
 |  |
 | ------- |
