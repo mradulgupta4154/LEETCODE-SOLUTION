@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3895-count-digit-appearances](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Number Theory
 |  |
 | ------- |
