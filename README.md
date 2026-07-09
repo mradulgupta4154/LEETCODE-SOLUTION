@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2181-merge-nodes-in-between-zeros](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3925-concatenate-array-with-reverse) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3110-score-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3280-convert-date-to-binary) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3794-reverse-string-prefix) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3280-convert-date-to-binary](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1492-the-kth-factor-of-n](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -484,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1499-max-value-of-equation) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
