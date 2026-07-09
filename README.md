@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1288-remove-covered-intervals](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 | [1688-count-of-matches-in-tournament](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
