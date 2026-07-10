@@ -12,9 +12,6 @@ public:
             }
             
         }
-        if(dsum>sum) return true;
-        else if(sum>dsum) return true;
-        else return false;
-        
+        return abs(sum-dsum)>0;
     }
 };
