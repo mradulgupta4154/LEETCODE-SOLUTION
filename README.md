@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0054-spiral-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0134-gas-station) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0015-3sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0018-4sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0143-reorder-list) |
