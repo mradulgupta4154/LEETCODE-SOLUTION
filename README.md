@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3925-concatenate-array-with-reverse) |
 ## Database
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3794-reverse-string-prefix) |
+| [3894-traffic-signal-color](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3894-traffic-signal-color](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
