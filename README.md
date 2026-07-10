@@ -513,4 +513,20 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
