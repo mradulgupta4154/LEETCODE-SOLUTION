@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2733-neither-minimum-nor-maximum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1288-remove-covered-intervals](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2161-partition-array-according-to-given-pivot](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
+| [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3794-reverse-string-prefix) |
