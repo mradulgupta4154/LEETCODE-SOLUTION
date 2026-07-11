@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0134-gas-station](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
