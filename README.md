@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0065-valid-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0065-valid-number) |
 | [0205-isomorphic-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0415-add-strings) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -543,12 +545,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
