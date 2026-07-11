@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1486-xor-operation-in-an-array) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
