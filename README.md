@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0134-gas-station) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
@@ -574,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
