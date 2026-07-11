@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0020-valid-parentheses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0065-valid-number) |
+| [0205-isomorphic-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0149-max-points-on-a-line](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
