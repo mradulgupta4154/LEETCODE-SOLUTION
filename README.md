@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1572-matrix-diagonal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2073-time-needed-to-buy-tickets) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0739-daily-temperatures](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Game Theory
 |  |
 | ------- |
