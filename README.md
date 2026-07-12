@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0104-maximum-depth-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
@@ -612,4 +615,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
