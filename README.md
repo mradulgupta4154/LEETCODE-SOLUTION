@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
@@ -571,11 +573,13 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
