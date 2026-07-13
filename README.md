@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1551-minimum-operations-to-make-array-equal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1688-count-of-matches-in-tournament) |
+| [2119-a-number-after-a-double-reversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
