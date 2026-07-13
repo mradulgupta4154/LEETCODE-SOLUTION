@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2652-sum-multiples) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2864-maximum-odd-binary-number) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0257-binary-tree-paths) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
