@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0258-add-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0415-add-strings) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0143-reorder-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0342-power-of-four) |
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1486-xor-operation-in-an-array) |
