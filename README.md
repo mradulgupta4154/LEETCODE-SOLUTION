@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0143-reorder-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0503-next-greater-element-ii) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -654,8 +658,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0098-validate-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
