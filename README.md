@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1492-the-kth-factor-of-n](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1492-the-kth-factor-of-n) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2427-number-of-common-factors) |
 ## Data Stream
 |  |
 | ------- |
