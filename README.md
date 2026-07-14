@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3467-transform-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3467-transform-array-by-parity) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3701-compute-alternating-sum) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
