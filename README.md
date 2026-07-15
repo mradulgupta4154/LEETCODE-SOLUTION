@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0164-maximum-gap](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0217-contains-duplicate) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0200-number-of-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1302-deepest-leaves-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
