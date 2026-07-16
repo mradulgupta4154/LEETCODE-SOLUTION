@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2169-count-operations-to-obtain-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2413-smallest-even-multiple) |
