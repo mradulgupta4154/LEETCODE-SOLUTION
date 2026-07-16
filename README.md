@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1399-count-largest-group](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1399-count-largest-group](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1399-count-largest-group) |
 | [1486-xor-operation-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1399-count-largest-group](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3467-transform-array-by-parity) |
