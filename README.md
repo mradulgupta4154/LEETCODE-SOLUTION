@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
+| [1441-build-an-array-with-stack-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1499-max-value-of-equation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1499-max-value-of-equation) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
+| [1441-build-an-array-with-stack-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
