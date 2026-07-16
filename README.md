@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1572-matrix-diagonal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1441-build-an-array-with-stack-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1499-max-value-of-equation) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0342-power-of-four](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
