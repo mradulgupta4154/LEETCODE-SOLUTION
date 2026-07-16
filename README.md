@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0065-valid-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
