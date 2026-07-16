@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3683-earliest-time-to-finish-one-task](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3701-compute-alternating-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3899-angles-of-a-triangle) |
 | [3925-concatenate-array-with-reverse](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3925-concatenate-array-with-reverse) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3701-compute-alternating-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3925-concatenate-array-with-reverse) |
 ## Database
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3467-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3899-angles-of-a-triangle) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
