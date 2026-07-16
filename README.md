@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
 | [0976-largest-perimeter-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0976-largest-perimeter-triangle) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
+| [1025-divisor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1323-maximum-69-number) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1025-divisor-game) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0292-nim-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
+| [1025-divisor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0292-nim-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
+| [1025-divisor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
