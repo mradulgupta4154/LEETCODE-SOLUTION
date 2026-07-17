@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0094-binary-tree-inorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0226-invert-binary-tree) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0226-invert-binary-tree) |
