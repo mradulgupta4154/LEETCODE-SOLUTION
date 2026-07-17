@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
+| [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 | [2485-find-the-pivot-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
+| [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Union-Find
 |  |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0232-implement-queue-using-stacks](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
+| [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Enumeration
 |  |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Ordered Set
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
@@ -764,4 +768,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Segment Tree
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
