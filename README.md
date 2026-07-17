@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3894-traffic-signal-color) |
 ## Stack
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
