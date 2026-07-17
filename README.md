@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3467-transform-array-by-parity) |
+| [3477-fruits-into-baskets-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3701-compute-alternating-sum) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0704-binary-search](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
 | [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3477-fruits-into-baskets-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
+| [3477-fruits-into-baskets-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
@@ -772,4 +776,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
+| [3477-fruits-into-baskets-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
