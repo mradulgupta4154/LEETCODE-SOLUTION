@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2181-merge-nodes-in-between-zeros](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3477-fruits-into-baskets-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3110-score-of-a-string) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
