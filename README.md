@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3829-design-ride-sharing-system](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3829-design-ride-sharing-system) |
 | [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2073-time-needed-to-buy-tickets) |
+| [3829-design-ride-sharing-system](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3829-design-ride-sharing-system) |
 ## Counting
 |  |
 | ------- |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 | [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1381-design-a-stack-with-increment-operation) |
+| [3829-design-ride-sharing-system](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3829-design-ride-sharing-system) |
 ## Enumeration
 |  |
 | ------- |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
+| [3829-design-ride-sharing-system](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3829-design-ride-sharing-system) |
 ## Linked List
 |  |
 | ------- |
