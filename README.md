@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1288-remove-covered-intervals) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0938-range-sum-of-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0897-increasing-order-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0938-range-sum-of-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2236-root-equals-sum-of-children) |
 ## Hash Function
 |  |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0897-increasing-order-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Iterator
 |  |
 | ------- |
