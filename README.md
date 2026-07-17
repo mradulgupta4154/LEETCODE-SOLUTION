@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0434-number-of-segments-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0771-jewels-and-stones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0917-reverse-only-letters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0771-jewels-and-stones) |
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1331-rank-transform-of-an-array) |
