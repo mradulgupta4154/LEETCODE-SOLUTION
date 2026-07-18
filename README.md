@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2073-time-needed-to-buy-tickets) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
 | [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1399-count-largest-group](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
