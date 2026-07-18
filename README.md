@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1550-three-consecutive-odds](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1598-crawler-log-folder](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0796-rotate-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0917-reverse-only-letters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1598-crawler-log-folder](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1441-build-an-array-with-stack-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1598-crawler-log-folder](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
