@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2418-sort-the-people](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2574-left-and-right-sum-differences) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2942-find-words-containing-character) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2418-sort-the-people](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3146-permutation-difference-between-two-strings) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
+| [2418-sort-the-people](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
