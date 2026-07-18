@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2864-maximum-odd-binary-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2465-number-of-distinct-averages) |
 | [2965-find-missing-and-repeated-values](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2965-find-missing-and-repeated-values) |
+| [3146-permutation-difference-between-two-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3146-permutation-difference-between-two-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
