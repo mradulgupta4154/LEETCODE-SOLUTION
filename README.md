@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0002-add-two-numbers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0172-factorial-trailing-zeroes) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1025-divisor-game) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Divide and Conquer
