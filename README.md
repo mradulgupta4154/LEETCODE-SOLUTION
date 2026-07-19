@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1688-count-of-matches-in-tournament](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1925-count-square-sum-triples](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0204-count-primes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0204-count-primes) |
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
+| [1925-count-square-sum-triples](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2427-number-of-common-factors) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3751-total-waviness-of-numbers-in-range-i) |
