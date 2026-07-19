@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2325-decode-the-message](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1399-count-largest-group](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2325-decode-the-message](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2325-decode-the-message) |
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
