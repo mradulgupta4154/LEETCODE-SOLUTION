@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0876-middle-of-the-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2396-strictly-palindromic-number) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
