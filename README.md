@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3516-find-closest-person](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3783-mirror-distance-of-an-integer) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Number Theory
 |  |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2427-number-of-common-factors) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Data Stream
 |  |
 | ------- |
