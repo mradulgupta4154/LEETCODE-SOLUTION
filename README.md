@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0704-binary-search](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0746-min-cost-climbing-stairs) |
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0198-house-robber](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1025-divisor-game) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
