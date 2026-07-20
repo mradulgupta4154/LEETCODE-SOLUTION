@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2169-count-operations-to-obtain-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2974-minimum-number-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2418-sort-the-people) |
