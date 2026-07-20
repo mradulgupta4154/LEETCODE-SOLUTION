@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0682-baseball-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0897-increasing-order-search-tree) |
+| [0946-validate-stack-sequences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
