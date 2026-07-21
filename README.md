@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0503-next-greater-element-ii) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0334-increasing-triplet-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1323-maximum-69-number) |
