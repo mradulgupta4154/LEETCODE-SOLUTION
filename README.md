@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0771-jewels-and-stones) |
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0202-happy-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0897-increasing-order-search-tree) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0733-flood-fill) |
 | [0897-increasing-order-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0938-range-sum-of-bst) |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0226-invert-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0733-flood-fill) |
 | [1302-deepest-leaves-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
@@ -851,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0543-diameter-of-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0897-increasing-order-search-tree) |
@@ -876,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0897-increasing-order-search-tree) |
