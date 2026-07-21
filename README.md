@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0746-min-cost-climbing-stairs) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0771-jewels-and-stones) |
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0225-implement-stack-using-queues](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
+| [0705-design-hashset](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 | [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
 | [0933-number-of-recent-calls](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0933-number-of-recent-calls) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0143-reorder-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0705-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
