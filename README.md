@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0213-house-robber-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0414-third-maximum-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0202-happy-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0414-third-maximum-number) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1399-count-largest-group](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1399-count-largest-group) |
