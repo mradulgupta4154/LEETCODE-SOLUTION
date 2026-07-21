@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0342-power-of-four) |
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
