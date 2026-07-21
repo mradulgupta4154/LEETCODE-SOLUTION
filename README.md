@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0682-baseball-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0705-design-hashset](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 | [0732-my-calendar-iii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0732-my-calendar-iii) |
+| [0901-online-stock-span](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1381-design-a-stack-with-increment-operation) |
 | [3829-design-ride-sharing-system](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3829-design-ride-sharing-system) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0933-number-of-recent-calls) |
 | [3829-design-ride-sharing-system](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3829-design-ride-sharing-system) |
 ## Linked List
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0084-largest-rectangle-in-histogram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
