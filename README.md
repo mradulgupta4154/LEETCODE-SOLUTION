@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0804-unique-morse-code-words](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1106-parsing-a-boolean-expression](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1106-parsing-a-boolean-expression) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1598-crawler-log-folder](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1106-parsing-a-boolean-expression](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1106-parsing-a-boolean-expression) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0326-power-of-three](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
+| [1106-parsing-a-boolean-expression](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1106-parsing-a-boolean-expression) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2487-remove-nodes-from-linked-list) |
