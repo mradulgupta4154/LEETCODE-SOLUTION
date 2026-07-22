@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2000-reverse-prefix-of-word](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3174-clear-digits) |
 ## Hash Table
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0509-fibonacci-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2487-remove-nodes-from-linked-list) |
 ## Game Theory
 |  |
 | ------- |
