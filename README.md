@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0746-min-cost-climbing-stairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0746-min-cost-climbing-stairs) |
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
+| [0905-sort-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0946-validate-stack-sequences) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0242-valid-anagram](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1721-swapping-nodes-in-a-linked-list) |
