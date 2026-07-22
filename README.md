@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0733-flood-fill](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0746-min-cost-climbing-stairs) |
+| [0804-unique-morse-code-words](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0804-unique-morse-code-words) |
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0905-sort-array-by-parity) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0521-longest-uncommon-subsequence-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0771-jewels-and-stones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0804-unique-morse-code-words) |
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1331-rank-transform-of-an-array) |
