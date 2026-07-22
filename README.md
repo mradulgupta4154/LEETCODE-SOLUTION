@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3683-earliest-time-to-finish-one-task](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3899-angles-of-a-triangle) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3829-design-ride-sharing-system](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3829-design-ride-sharing-system) |
 | [3945-digit-frequency-score](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3945-digit-frequency-score) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2974-minimum-number-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
