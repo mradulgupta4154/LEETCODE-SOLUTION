@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2239-find-closest-number-to-zero) |
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
