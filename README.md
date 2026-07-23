@@ -1,4 +1,4 @@
-<h1>LeetCode ID: <a href="https://leetcode.com/u/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a></h1>
+<h1>LeetCode ID: <a href="https://leetcode.com/u/MRADUL_GUPTA1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a></h1>
 
 
 # LeetCode Topics
