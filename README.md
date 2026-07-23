@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0229-majority-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0334-increasing-triplet-subsequence) |
+| [0384-shuffle-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0503-next-greater-element-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0326-power-of-three](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0367-valid-perfect-square) |
+| [0384-shuffle-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0507-perfect-number) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0225-implement-stack-using-queues](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
+| [0384-shuffle-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0384-shuffle-an-array) |
 | [0705-design-hashset](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
@@ -974,4 +977,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0207-course-schedule](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0210-course-schedule-ii) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
