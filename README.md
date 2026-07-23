@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1550-three-consecutive-odds](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1598-crawler-log-folder](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1106-parsing-a-boolean-expression) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1323-maximum-69-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1323-maximum-69-number) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2864-maximum-odd-binary-number) |
 ## Geometry
