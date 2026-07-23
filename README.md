@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0434-number-of-segments-in-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0709-to-lower-case](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0804-unique-morse-code-words) |
