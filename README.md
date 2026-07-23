@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2325-decode-the-message](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2351-first-letter-to-appear-twice) |
 | [2363-merge-similar-items](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2351-first-letter-to-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1486-xor-operation-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1486-xor-operation-in-an-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2595-number-of-even-and-odd-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
