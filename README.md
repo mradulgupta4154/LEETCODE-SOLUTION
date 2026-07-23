@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0922-sort-array-by-parity-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0810-chalkboard-xor-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
+| [0973-k-closest-points-to-origin](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0991-broken-calculator) |
 | [1006-clumsy-factorial](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1006-clumsy-factorial) |
@@ -581,12 +584,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0191-number-of-1-bits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1499-max-value-of-equation) |
@@ -720,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 ## Brainteaser
 |  |
 | ------- |
@@ -746,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0812-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0973-k-closest-points-to-origin) |
 | [3899-angles-of-a-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/3899-angles-of-a-triangle) |
 ## Monotonic Stack
 |  |
