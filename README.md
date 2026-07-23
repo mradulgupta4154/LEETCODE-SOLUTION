@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1302-deepest-leaves-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1609-even-odd-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0733-flood-fill) |
 | [1302-deepest-leaves-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1302-deepest-leaves-sum) |
+| [1609-even-odd-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1302-deepest-leaves-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1609-even-odd-tree](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2236-root-equals-sum-of-children) |
 ## Hash Function
 |  |
