@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1288-remove-covered-intervals](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0970-powerful-integers](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0970-powerful-integers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1512-number-of-good-pairs) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1288-remove-covered-intervals](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0215-kth-largest-element-in-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0912-sort-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1425-constrained-subsequence-sum](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1499-max-value-of-equation) |
 | [2974-minimum-number-game](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2974-minimum-number-game) |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0976-largest-perimeter-triangle](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1323-maximum-69-number) |
+| [1338-reduce-array-size-to-the-half](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1338-reduce-array-size-to-the-half) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/mradulgupta4154/LEETCODE-SOLUTION/tree/master/2864-maximum-odd-binary-number) |
