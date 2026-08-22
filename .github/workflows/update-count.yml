@@ -1,0 +1,20 @@
+name: Update Solved Count
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README count
+        run: python3 scripts/update_count.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update solved count [skip ci]" && git push)
