@@ -1,6 +1,10 @@
  <h1 src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a></h1>
 
+## 📊 Progress
 
+<!--START_SOLVED_COUNT-->
+Solved: 0 problems
+<!--END_SOLVED_COUNT-->
 # LeetCode Topics
 ## Array
 |  |
