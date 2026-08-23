@@ -1,0 +1,11 @@
+class Solution {
+public:
+    double angleClock(int hour, int minutes) {
+    double a = abs(30.0*hour - 5.5*minutes);
+    if (a >= 180) {
+        return 360 - a;
+    }
+    return a;
+        
+    }
+};
