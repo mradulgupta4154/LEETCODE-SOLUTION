@@ -3,7 +3,7 @@
 ## 📊 Progress
 
 <!--START_SOLVED_COUNT-->
-Solved: 604 problems
+Solved: 605 problems
 <!--END_SOLVED_COUNT-->
 # LeetCode Topics
 ## Array
