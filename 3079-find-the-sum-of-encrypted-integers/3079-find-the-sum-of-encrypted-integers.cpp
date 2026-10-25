@@ -1,15 +1,25 @@
 class Solution {
 public:
-    int sumOfEncryptedInt(vector<int>& nums) {
-        int res = 0;
-        for (int n : nums) {
-            int mul = 0, max_d = 0;
-            for (; n; n /= 10) {
-                mul = mul * 10 + 1;
-                max_d = max(max_d, n % 10);
-            }
-            res += max_d * mul;
+    int encrypt(int a){
+        string c=to_string(a);
+        int e=c.length();
+        string f="";
+        int maxi=0;
+        while(a>0){
+            int d=a%10;
+            maxi=max(maxi,d);
+            a/=10;
         }
-        return res;
+        for(int i=0;i<e;i++){
+            f+=to_string(maxi);
+        }
+        return stoi(f);
+    }
+    int sumOfEncryptedInt(vector<int>& nums) {
+        int sum=0;
+        for(int i=0;i<nums.size();i++){
+            sum+=encrypt(nums[i]);
+        }
+        return sum;
     }
 };
