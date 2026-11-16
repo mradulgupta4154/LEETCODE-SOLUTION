@@ -1,27 +1,14 @@
 class Solution {
 public:
     string digitSum(string s, int k) {
-        vector<int> result;
-        if(s.size()<=k){
-            return s;
-        }
-        string S = "";
-        for(int i = 0; i < s.size(); i++){
-            result.push_back(s[i] - '0');
-        }
-
-        for(int i = 0; i < result.size(); i += k){
-            int num = 0;
-            for(int j = i; j < i + k && j < result.size(); j++){
-                num += result[j];
+        while (ssize(s) > k) {
+            string next;
+            for (int i = 0; i < ssize(s); i += k) {
+                string_view group = string_view(s).substr(i, k);  // the last group may be shorter
+                next += to_string(accumulate(group.begin(), group.end(), 0, [](int sum, char d) { return sum + d - '0'; }));
             }
-            S += to_string(num);
+            s = next;
         }
-        if(S.size() <= k){
-            return S;
-        }
-        else{
-            return digitSum(S, k);
-        }
+        return s;
     }
 };
